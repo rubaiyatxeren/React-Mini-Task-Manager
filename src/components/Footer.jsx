@@ -56,7 +56,7 @@ const Footer = () => {
             </button>
             <button
               onClick={() =>
-                alert("সোর্স কোড: https://github.com/example/todo-app")
+                alert("সোর্স কোড: https://github.com/rubaiyatxeren/React-Mini-Task-Manager")
               }
               className="text-gray-600 hover:text-gray-800 text-xs font-medium"
             >
@@ -74,3 +74,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
